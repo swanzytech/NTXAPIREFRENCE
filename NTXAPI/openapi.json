@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" media="(prefers-color-scheme: light)" href="/favicon-light-mode.svg" />
+    <link rel="icon" media="(prefers-color-scheme: dark)" href="/favicon-dark-mode.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Nutanix for Developers" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="/manifest.json" />
+    <title>Nutanix for Developers</title>
+
+    <!-- This script loads configuration variables and exposes them under window._____ENV -->
+    <script src="/env.js?_=b38f3a3a34ce209f5534b8a1c9640a0d6e20e059"></script>
+    <script type="module" crossorigin src="/assets/index-DZ5bN_E_.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DmskF-7o.css">
+  </head>
+
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  </body>
+</html>
